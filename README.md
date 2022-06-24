@@ -6,7 +6,7 @@ Currently learning code at WeThinkCode_ where I am discovering a passion for hel
 
 ## 💫 A Little Bit More About Me
 <p>🔭 I'm currently working on <a href="https://github.com/KeloDraken/TheDragonProject">WTC platform</a></p>
-<p>🌱 I'm currently learning kotlin, flutter & godot</p>
+<p>🌱 I'm currently learning php & flutter</p>
 <p>💬 Ask me about web dev</p>
 <p>🤖 All of my projects are available at <a href="https://kelodraken.com">KeloDraken</a></p>
 
