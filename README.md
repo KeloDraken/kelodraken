@@ -7,7 +7,6 @@ Currently learning code at WeThinkCode_ where I am discovering a passion for hel
 ## 💫 A Little Bit More About Me
 <p>:older_woman: Grandma says I'm cool</p>
 <p>🔭 I'm currently working on <a href="https://pypi.org/project/aquilo/0.0.1/">Aquilo</a></p>
-<p>🤖 All of my projects are available at <a href="https://kelodraken.com">KeloDraken</a></p>
 
 ## :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
