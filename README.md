@@ -26,5 +26,6 @@ Currently learning code at WeThinkCode_ where I am discovering a passion for hel
 
 ## 🔢 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelodraken&show_icons=true&locale=en&layout=compact" alt="kelodraken" /></p>
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelodraken&show_icons=true&locale=en" alt="kelodraken" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelodraken&" alt="kelodraken" /></p>
