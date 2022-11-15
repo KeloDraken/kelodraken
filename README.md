@@ -24,5 +24,6 @@ Currently learning code at WeThinkCode_ where I am discovering a passion for hel
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 
 
-## ⚒️ Tech stack
+## 🔢 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelodraken&show_icons=true&locale=en&layout=compact" alt="kelodraken" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelodraken&show_icons=true&locale=en" alt="kelodraken" /></p>
