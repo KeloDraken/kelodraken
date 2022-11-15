@@ -22,3 +22,5 @@ Currently learning code at WeThinkCode_ where I am discovering a passion for hel
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsd12-hub&show_icons=true&locale=en&layout=compact" alt="lsd12-hub" /></p>
