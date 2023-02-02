@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://i.imgur.com/pHcOnEP.png" alt="my banner">
 
-Currently learning code at WeThinkCode_ where I am discovering a passion for helping to build the future. Striving for the success of all life
+Currently interning BBD where I am discovering a passion for helping to build the future. Striving for the success of all life
 
 ## 💫 A Little Bit More About Me
 <p>:older_woman: Grandma says I'm cool</p>
