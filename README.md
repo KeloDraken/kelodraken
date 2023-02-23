@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Vuyo
 
-<img width="100%" src="https://i.imgur.com/pHcOnEP.png" alt="my banner">
+<img width="100%" src="https://i.imgur.com/pHcOnEP.png" alt="my banner"> 
 
 Currently interning BBD.
 
