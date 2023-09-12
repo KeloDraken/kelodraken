@@ -26,11 +26,3 @@ Currently cloning Facebook.
 
 ## :student: Currently learning :
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-
-
-  
-## 🔢 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelodraken&show_icons=true&locale=en&layout=compact" alt="kelodraken" /></p>
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelodraken&show_icons=true&locale=en" alt="kelodraken" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelodraken&" alt="kelodraken" /></p>
