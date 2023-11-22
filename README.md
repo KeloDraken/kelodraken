@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://i.imgur.com/pHcOnEP.png" alt="my banner"> 
 
-Currently cloning Facebook.
 
 ## 💫 A Little Bit More About Me
 <p>:older_woman: Grandma says I'm cool</p>
